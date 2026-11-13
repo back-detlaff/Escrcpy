@@ -180,4 +180,4 @@ This repository serves as the official landing page for Escrcpy. The software is
 **Get the most recent version of Escrcpy today!**
 
 ---
-**Last updated:** 2026-11-12 23:02:28 UTC
+**Last updated:** 2026-11-13 04:27:54 UTC
